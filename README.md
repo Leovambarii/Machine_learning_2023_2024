@@ -38,9 +38,9 @@
 
 ## Exercise 5: [Svm](https://github.com/Leovambarii/Machine_learning_2023_2024/blob/main/Svm/065_SVM_Exercises.ipynb)
 
-:white_check_mark: Implement the polynomial kernel.
+:white_check_mark: 1. Implement the polynomial kernel.
 
-:x: Implement the multiclass C-SVM.
+:x: 2. Implement the multiclass C-SVM.
 
 ## Exercise 6: [Nlp](https://github.com/Leovambarii/Machine_learning_2023_2024/blob/main/Nlp/106_NLP_Exercises.ipynb)
 
